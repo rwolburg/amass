@@ -1,0 +1,1 @@
+{\n  "name": "amass-frontend",\n  "version": "1.0.0",\n  "description": "Frontend for Amass GUI",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {}\n}
